@@ -7,7 +7,7 @@
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=tailwind,nodejs,jquery,vscode,sqlite,mongodb)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,python,nodejs,postgresql,vscode,sqlite,mongodb)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
 
 ## 📊My GitHub Stats

@@ -1,4 +1,4 @@
-<!--
+<!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=800&lines=Full+Stack+Developer;Learning+Cloud;Love+JavaScript)](https://git.io/typing-svg)
 -->
 
